@@ -1,0 +1,830 @@
+{
+    "channels": [
+        {
+            "id": 1,
+            "name": "Paramount+ 1",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus1.jpg",
+            "type": "PPV",
+            "m3u8": "https://4yyxpd9bwkc3pt40i0thдйra3jpmwjmpn6s6d12sl2vq7yjb88e3jg.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/paramountplus1/__index.m3u8?mu3zAQc9HC3GbwJq=k0i5n7O-GlITCK63sIMUOg&3U1G7qaTxrPbalZnEx=1713639307"
+        },
+        {
+            "id": 2,
+            "name": "Paramount+ 2",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus2.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/paramountplus2/__index.m3u8?mu3zAQc9HC3GbwJq=gOKGsNQElSgIg8BJ3_MlMQ&3U1G7qaTxrPbalZnEx=1713639329"
+        },
+        {
+            "id": 3,
+            "name": "Paramount+ 3",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus3.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/paramountplus3/__index.m3u8?mu3zAQc9HC3GbwJq=YclxOQwcuXUgdLJ3RwUbsA&3U1G7qaTxrPbalZnEx=1713639403"
+        },
+        {
+            "id": 4,
+            "name": "Paramount+ 4",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-paramountplus4.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/paramountplus4/__index.m3u8?mu3zAQc9HC3GbwJq=sekAUBQWVB-kirLch4iToA&3U1G7qaTxrPbalZnEx=1713639433"
+        },
+        {
+            "id": 5,
+            "name": "Prime Video 1",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo1.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/primevideo1/__index.m3u8?mu3zAQc9HC3GbwJq=fufJARLckNkFt8Uu-rH8Cg&3U1G7qaTxrPbalZnEx=1713639454"
+        },
+        {
+            "id": 6,
+            "name": "Prime Video 2",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo2.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/primevideo2/__index.m3u8?mu3zAQc9HC3GbwJq=V8S3aqYk19kx8QlO-7Fw3w&3U1G7qaTxrPbalZnEx=1713639494"
+        },
+        {
+            "id": 7,
+            "name": "Prime Video 3",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo3.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/primevideo3/__index.m3u8?mu3zAQc9HC3GbwJq=I9sd-t2Y1FtLFWeeDWspYw&3U1G7qaTxrPbalZnEx=1713639538"
+        },
+        {
+            "id": 8,
+            "name": "Prime Video 4",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-primevideo4.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/primevideo4/__index.m3u8?mu3zAQc9HC3GbwJq=TzENUwBMrv2amlSYISAcVQ&3U1G7qaTxrPbalZnEx=1713639563"
+        },
+        {
+            "id": 9,
+            "name": "Star+ 1",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus1.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/starplus1/__index.m3u8?mu3zAQc9HC3GbwJq=rGtHu5s1fN8hLvqJzFeTAg&3U1G7qaTxrPbalZnEx=1713639586"
+        },
+        {
+            "id": 10,
+            "name": "Star+ 2",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus2.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/starplus2/__index.m3u8?mu3zAQc9HC3GbwJq=Ufxf0g1rQtSVaGzOP2W5gg&3U1G7qaTxrPbalZnEx=1713639652"
+        },
+        {
+            "id": 11,
+            "name": "Star+ 3",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-starplus3.jpg",
+            "type": "PPV",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/starplus3/__index.m3u8?mu3zAQc9HC3GbwJq=Z7o75Mr3bATsdPYLsflynA&3U1G7qaTxrPbalZnEx=1713639689"
+        },
+        {
+            "id": 12,
+            "name": "A&E",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-aie.jpg",
+            "type": "001",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/aie/__index.m3u8?mu3zAQc9HC3GbwJq=qQ9UxlrmXka0NYPydRBEOw&3U1G7qaTxrPbalZnEx=1713639738"
+        },
+        {
+            "id": 13,
+            "name": "Adult Swim",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-adultswim.jpg",
+            "type": "002",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/adultswim/__index.m3u8?mu3zAQc9HC3GbwJq=AQdIaKMljAoVVlFyU2aJIQ&3U1G7qaTxrPbalZnEx=1713639764"
+        },
+        {
+            "id": 14,
+            "name": "AMC",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-amc.jpg",
+            "type": "003",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/amc/__index.m3u8?mu3zAQc9HC3GbwJq=fhWiiMhuULPwASZVPx5ohg&3U1G7qaTxrPbalZnEx=1713639790"
+        },
+        {
+            "id": 15,
+            "name": "Animal Planet",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-animalplanet.jpg",
+            "type": "004",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/animalplanet/__index.m3u8?mu3zAQc9HC3GbwJq=CT8hyFw5SKHlvRwrJhqUAg&3U1G7qaTxrPbalZnEx=1713639815"
+        },
+        {
+            "id": 16,
+            "name": "Arte 1",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-arte1.jpg",
+            "type": "005",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/arte1/__index.m3u8?mu3zAQc9HC3GbwJq=bpKq9dBttr3JIXNlTYqi7A&3U1G7qaTxrPbalZnEx=1713639845"
+        },
+        {
+            "id": 17,
+            "name": "AXN",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-axn.jpg",
+            "type": "006",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/axn/__index.m3u8?mu3zAQc9HC3GbwJq=nsbLkmvUyRzOwtSuYU_StQ&3U1G7qaTxrPbalZnEx=1713639867"
+        },
+        {
+            "id": 18,
+            "name": "Band",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-band.jpg",
+            "type": "007",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/band/__index.m3u8?mu3zAQc9HC3GbwJq=oJYi0eCLK3JQe3XjN2mbGw&3U1G7qaTxrPbalZnEx=1713639886"
+        },
+        {
+            "id": 19,
+            "name": "Band News",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-bandnews.jpg",
+            "type": "008",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/bandnews/__index.m3u8?mu3zAQc9HC3GbwJq=k3-NvcvPypagB83SMOqOlg&3U1G7qaTxrPbalZnEx=1713639917"
+        },
+        {
+            "id": 20,
+            "name": "Band Sports",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-bandsports.jpg",
+            "type": "009",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/bandsports/__index.m3u8?mu3zAQc9HC3GbwJq=JSb8GGvFwx1U1ByMbNDsfg&3U1G7qaTxrPbalZnEx=1713639952"
+        },
+        {
+            "id": 21,
+            "name": "BIS",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-bis.jpg",
+            "type": "010",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/bis/__index.m3u8?mu3zAQc9HC3GbwJq=tLsWnBzmjhKnP5n94Jg98w&3U1G7qaTxrPbalZnEx=1713639972"
+        },
+        {
+            "id": 22,
+            "name": "Canal Brasil",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-canalbrasil.jpg",
+            "type": "011",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/canalbrasil/__index.m3u8?mu3zAQc9HC3GbwJq=mA2t-csp8ozKDPvPyum-Kg&3U1G7qaTxrPbalZnEx=1713639994"
+        },
+        {
+            "id": 23,
+            "name": "Can\u00e7\u00e3o Nova",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-cancaonova.jpg",
+            "type": "012",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/cancaonova/__index.m3u8?mu3zAQc9HC3GbwJq=Lt4rz7pDYKATK9Gt3wazMw&3U1G7qaTxrPbalZnEx=1713640037"
+        },
+        {
+            "id": 24,
+            "name": "Cartoon Network",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-cartoon.jpg",
+            "type": "013",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/cartoon/__index.m3u8?mu3zAQc9HC3GbwJq=8yrW2vpEa3eq4wU9DXzoQg&3U1G7qaTxrPbalZnEx=1713640067"
+        },
+        {
+            "id": 25,
+            "name": "Cartoonito",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-cartoonito.jpg",
+            "type": "014",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/cartoonito/__index.m3u8?mu3zAQc9HC3GbwJq=CptdtLRqsP_ayRBXVMT2zQ&3U1G7qaTxrPbalZnEx=1713640088"
+        },
+        {
+            "id": 26,
+            "name": "Cinecanal",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-cinecanal.jpg",
+            "type": "015",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/cinecanal/__index.m3u8?mu3zAQc9HC3GbwJq=9CCEC_h8iVMdNfxAKDOZGQ&3U1G7qaTxrPbalZnEx=1713640110"
+        },
+        {
+            "id": 27,
+            "name": "Cinemax",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-cinemax.jpg",
+            "type": "016",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=eoHizl0V3yyNsfJcn9i_Jg&3U1G7qaTxrPbalZnEx=1713640131"
+        },
+        {
+            "id": 28,
+            "name": "CNN Brasil",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-cnnbrasil.jpg",
+            "type": "017",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/cnnbrasil/__index.m3u8?mu3zAQc9HC3GbwJq=qs3PX0tx6gasyu9KU2UQrw&3U1G7qaTxrPbalZnEx=1713640151"
+        },
+        {
+            "id": 29,
+            "name": "Combate",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-combate.jpg",
+            "type": "018",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/combate/__index.m3u8?mu3zAQc9HC3GbwJq=6L1fZ-EzDkgbfoLCkZH_mw&3U1G7qaTxrPbalZnEx=1713640178"
+        },
+        {
+            "id": 30,
+            "name": "Comedy Central",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-comedycentral.jpg",
+            "type": "019",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/comedycentral/__index.m3u8?mu3zAQc9HC3GbwJq=F8KMi_e9PfBlGt1zhBNOLg&3U1G7qaTxrPbalZnEx=1713640201"
+        },
+        {
+            "id": 31,
+            "name": "Curta!",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-curta.jpg",
+            "type": "020",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/curta/__index.m3u8?mu3zAQc9HC3GbwJq=Z5WoMxVlLQQ9KosPbPK6XA&3U1G7qaTxrPbalZnEx=1713640231"
+        },
+        {
+            "id": 32,
+            "name": "Discovery Channel",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-discovery.jpg",
+            "type": "021",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/discovery/__index.m3u8?mu3zAQc9HC3GbwJq=bvJJvoLx03lPr0XodH8-tw&3U1G7qaTxrPbalZnEx=1713641463"
+        },
+        {
+            "id": 33,
+            "name": "Discovery Home & Health",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryhomeihealth.jpg",
+            "type": "022",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/discoveryhomeihealth/__index.m3u8?mu3zAQc9HC3GbwJq=wubuTCliaZ1UTHQG5PugOA&3U1G7qaTxrPbalZnEx=1713641439"
+        },
+        {
+            "id": 34,
+            "name": "Discovery Kids",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverykids.jpg",
+            "type": "023",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/discoverykids/__index.m3u8?mu3zAQc9HC3GbwJq=xdOD-J66WJeB6KwV7roPCQ&3U1G7qaTxrPbalZnEx=1713641421"
+        },
+        {
+            "id": 35,
+            "name": "Discovery Science",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverysience.jpg",
+            "type": "024",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/discoverysience/__index.m3u8?mu3zAQc9HC3GbwJq=_-chcMLXHI22Zr8nhg8T0A&3U1G7qaTxrPbalZnEx=1713641395"
+        },
+        {
+            "id": 36,
+            "name": "Discovery Theater",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-discoverytheater.jpg",
+            "type": "025",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/discoverytheater/__index.m3u8?mu3zAQc9HC3GbwJq=Q_6Fvi9Y0ETI0OUQYvVUkA&3U1G7qaTxrPbalZnEx=1713641360"
+        },
+        {
+            "id": 37,
+            "name": "Discovery Turbo",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryturbo.jpg",
+            "type": "026",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/discoveryturbo/__index.m3u8?mu3zAQc9HC3GbwJq=b-DQTaF4EMUZxOX_Y_CglA&3U1G7qaTxrPbalZnEx=1713641338"
+        },
+        {
+            "id": 38,
+            "name": "Discovery World",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-discoveryworld.jpg",
+            "type": "027",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/discoveryworld/__index.m3u8?mu3zAQc9HC3GbwJq=u_MvanYgZ14zGFNfauN0NA&3U1G7qaTxrPbalZnEx=1713641310"
+        },
+        {
+            "id": 39,
+            "name": "Disney Channel",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-disney.jpg",
+            "type": "028",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/disney/__index.m3u8?mu3zAQc9HC3GbwJq=PXq9BWLvDj3puD0kOMIG5Q&3U1G7qaTxrPbalZnEx=1713641284"
+        },
+        {
+            "id": 40,
+            "name": "E! Entertainment",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-canale.jpg",
+            "type": "029",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/canale/__index.m3u8?mu3zAQc9HC3GbwJq=GRWzfHjfyHglRMnrIU1hfw&3U1G7qaTxrPbalZnEx=1713641261"
+        },
+        {
+            "id": 41,
+            "name": "ESPN",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-espn.jpg",
+            "type": "030",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/espn/__index.m3u8?mu3zAQc9HC3GbwJq=1L2TYm9KiGUV2pTzx1Ecdw&3U1G7qaTxrPbalZnEx=1713641240"
+        },
+        {
+            "id": 42,
+            "name": "ESPN 2",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-espn2.jpg",
+            "type": "031",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/espn2/__index.m3u8?mu3zAQc9HC3GbwJq=lcQQYXtPUhz18DskDHQHIQ&3U1G7qaTxrPbalZnEx=1713641216"
+        },
+        {
+            "id": 43,
+            "name": "ESPN 3",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-espn3.jpg",
+            "type": "032",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/espn3/__index.m3u8?mu3zAQc9HC3GbwJq=RrNDjP-04KmwPO65W3TwBQ&3U1G7qaTxrPbalZnEx=1713641096"
+        },
+        {
+            "id": 44,
+            "name": "ESPN 4",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-espn4.jpg",
+            "type": "033",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/espn4/__index.m3u8?mu3zAQc9HC3GbwJq=uSFMaRDR09-KGsuabGhpIg&3U1G7qaTxrPbalZnEx=1713641184"
+        },
+        {
+            "id": 45,
+            "name": "ESPN 5",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-espn5.jpg",
+            "type": "034",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/espn5/__index.m3u8?mu3zAQc9HC3GbwJq=6e_IC8jcKJiULrhIdemFYA&3U1G7qaTxrPbalZnEx=1713641147"
+        },
+        {
+            "id": 46,
+            "name": "ESPN 6",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-espn6.jpg",
+            "type": "035",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/espn6/__index.m3u8?mu3zAQc9HC3GbwJq=bkQLUcMbZGwk6Pv-iP3X6A&3U1G7qaTxrPbalZnEx=1713641123"
+        },
+        {
+            "id": 47,
+            "name": "Film&Arts",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-filmearts.jpg",
+            "type": "036",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/filmearts/__index.m3u8?mu3zAQc9HC3GbwJq=sCIpCGT4rn6lLD4Y51fUUw&3U1G7qaTxrPbalZnEx=1713641719"
+        },
+        {
+            "id": 48,
+            "name": "Fish TV",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-fishtv.jpg",
+            "type": "037",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/fishtv/__index.m3u8?mu3zAQc9HC3GbwJq=qwhZde_NAw_LYjLyC3BXLA&3U1G7qaTxrPbalZnEx=1713641738"
+        },
+        {
+            "id": 49,
+            "name": "Food Network",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-foodnetwork.jpg",
+            "type": "038",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/foodnetwork/__index.m3u8?mu3zAQc9HC3GbwJq=aqLGQM7bdKWzgJ_4chf5Yw&3U1G7qaTxrPbalZnEx=1713641760"
+        },
+        {
+            "id": 50,
+            "name": "FX",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-fx.jpg",
+            "type": "039",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/fx/__index.m3u8?mu3zAQc9HC3GbwJq=l_hRIpa_Ogcksz5h5zCtIA&3U1G7qaTxrPbalZnEx=1713641783"
+        },
+        {
+            "id": 51,
+            "name": "Globo News",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-globonews.jpg",
+            "type": "040",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/globonews/__index.m3u8?mu3zAQc9HC3GbwJq=_lOMEfPNwu--2stf-hvIMw&3U1G7qaTxrPbalZnEx=1713641803"
+        },
+        {
+            "id": 52,
+            "name": "Globo Nordeste",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-bobonordeste.jpg",
+            "type": "041",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/bobonordeste/__index.m3u8?mu3zAQc9HC3GbwJq=YWtRrxoksgi17WOEFHz2zg&3U1G7qaTxrPbalZnEx=1713641822"
+        },
+        {
+            "id": 53,
+            "name": "Globo RJ",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-boborj.jpg",
+            "type": "042",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/boborj/__index.m3u8?mu3zAQc9HC3GbwJq=1nWkjOpZMjnh0Af60jEPFg&3U1G7qaTxrPbalZnEx=1713641852"
+        },
+        {
+            "id": 54,
+            "name": "Globo SP",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-bobosp.jpg",
+            "type": "043",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/bobosp/__index.m3u8?mu3zAQc9HC3GbwJq=pq6D66kPyNZKP4DHvg2Ubg&3U1G7qaTxrPbalZnEx=1713641871"
+        },
+        {
+            "id": 55,
+            "name": "Gloob",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-gloob.jpg",
+            "type": "044",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/gloob/__index.m3u8?mu3zAQc9HC3GbwJq=OplPQH5EbRFsah7hgQQWSw&3U1G7qaTxrPbalZnEx=1713641894"
+        },
+        {
+            "id": 56,
+            "name": "Gloobinho",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-gloobinho.jpg",
+            "type": "045",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/gloobinho/__index.m3u8?mu3zAQc9HC3GbwJq=FlY4MCS2Z2mEIlY-_N905w&3U1G7qaTxrPbalZnEx=1713641915"
+        },
+        {
+            "id": 57,
+            "name": "GNT",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-gnt.jpg",
+            "type": "046",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/gnt/__index.m3u8?mu3zAQc9HC3GbwJq=7e61043qkDSPM4W8i4gQlQ&3U1G7qaTxrPbalZnEx=1713641941"
+        },
+        {
+            "id": 58,
+            "name": "HBO",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hbo.jpg",
+            "type": "047",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hbo/__index.m3u8?mu3zAQc9HC3GbwJq=FOAzcFfvtrS0BUpJvTws-A&3U1G7qaTxrPbalZnEx=1713641971"
+        },
+        {
+            "id": 59,
+            "name": "HBO 2",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hbo2.jpg",
+            "type": "048",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hbo2/__index.m3u8?mu3zAQc9HC3GbwJq=eRA7ppxUKv_Mz5sMqdPqtQ&3U1G7qaTxrPbalZnEx=1713641991"
+        },
+        {
+            "id": 60,
+            "name": "HBO Family",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hbofamily.jpg",
+            "type": "049",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hbofamily/__index.m3u8?mu3zAQc9HC3GbwJq=8caocD2n2HaNlW_yW1BAcw&3U1G7qaTxrPbalZnEx=1713642022"
+        },
+        {
+            "id": 61,
+            "name": "HBO Mundi",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hbomundi.jpg",
+            "type": "050",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hbomundi/__index.m3u8?mu3zAQc9HC3GbwJq=ELR_3Z1hAA_AF9k_ziS2DQ&3U1G7qaTxrPbalZnEx=1713642048"
+        },
+        {
+            "id": 62,
+            "name": "HBO Plus",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hboplus.jpg",
+            "type": "051",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hboplus/__index.m3u8?mu3zAQc9HC3GbwJq=y5vNcx6kXM79Lxl7cNaoyQ&3U1G7qaTxrPbalZnEx=1713642643"
+        },
+        {
+            "id": 63,
+            "name": "HBO Pop",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hbopop.jpg",
+            "type": "052",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hbopop/__index.m3u8?mu3zAQc9HC3GbwJq=NTPOfGT_PtaqgszMDEQuAA&3U1G7qaTxrPbalZnEx=1713642591"
+        },
+        {
+            "id": 64,
+            "name": "HBO Signature",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hbosignature.jpg",
+            "type": "053",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hbosignature/__index.m3u8?mu3zAQc9HC3GbwJq=e-1SbUlkztWSdS5OAc1Bsg&3U1G7qaTxrPbalZnEx=1713642557"
+        },
+        {
+            "id": 65,
+            "name": "HBO Xtreme",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hboxtreme.jpg",
+            "type": "054",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hboxtreme/__index.m3u8?mu3zAQc9HC3GbwJq=O7ofNfhP6D5yjzbs-gOibg&3U1G7qaTxrPbalZnEx=1713642532"
+        },
+        {
+            "id": 66,
+            "name": "HGTV",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-hgtv.jpg",
+            "type": "055",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/hgtv/__index.m3u8?mu3zAQc9HC3GbwJq=_lOKLkac2GNADWDlzdB0lA&3U1G7qaTxrPbalZnEx=1713642508"
+        },
+        {
+            "id": 67,
+            "name": "History  Channel",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-history.jpg",
+            "type": "056",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/history/__index.m3u8?mu3zAQc9HC3GbwJq=ferouNdGdMsz0KxbH-ZS2A&3U1G7qaTxrPbalZnEx=1713642479"
+        },
+        {
+            "id": 68,
+            "name": "History 2 - H2",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-history2.jpg",
+            "type": "057",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/history2/__index.m3u8?mu3zAQc9HC3GbwJq=Wv-7Kew1y7WpJ_Nhv3Abcg&3U1G7qaTxrPbalZnEx=1713642453"
+        },
+        {
+            "id": 69,
+            "name": "Investiga\u00e7\u00e3o Discovery",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-investigacaodiscovery.jpg",
+            "type": "058",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/investigacaodiscovery/__index.m3u8?mu3zAQc9HC3GbwJq=e_gOnwPy0j7R107Tza8V7A&3U1G7qaTxrPbalZnEx=1713642436"
+        },
+        {
+            "id": 70,
+            "name": "Lifetime",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-lifetime.jpg",
+            "type": "059",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/lifetime/__index.m3u8?mu3zAQc9HC3GbwJq=S_XCdNHN0wtgBdm142P50w&3U1G7qaTxrPbalZnEx=1713642414"
+        },
+        {
+            "id": 71,
+            "name": "Megapix",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-megapix.jpg",
+            "type": "060",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/megapix/__index.m3u8?mu3zAQc9HC3GbwJq=ICXV27eN5wixtBxE-dsVgw&3U1G7qaTxrPbalZnEx=1713642389"
+        },
+        {
+            "id": 72,
+            "name": "Modo Viagem",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-modoviagem.jpg",
+            "type": "061",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/modoviagem/__index.m3u8?mu3zAQc9HC3GbwJq=3sM6HC5R4hGqL4j_6nrBHg&3U1G7qaTxrPbalZnEx=1713642369"
+        },
+        {
+            "id": 73,
+            "name": "MTV",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-mtv.jpg",
+            "type": "062",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/mtv/__index.m3u8?mu3zAQc9HC3GbwJq=1HGN6bCv0bNqIjdCsDZ-Fg&3U1G7qaTxrPbalZnEx=1713642351"
+        },
+        {
+            "id": 74,
+            "name": "MTV Live",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-mtvlive.jpg",
+            "type": "063",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/mtvlive/__index.m3u8?mu3zAQc9HC3GbwJq=mZk9d5C-F3xUQMPE_KF_Iw&3U1G7qaTxrPbalZnEx=1713642327"
+        },
+        {
+            "id": 75,
+            "name": "Multishow",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-multishow.jpg",
+            "type": "064",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/multishow/__index.m3u8?mu3zAQc9HC3GbwJq=y-i5gvBpWwyod0yYxiRmnA&3U1G7qaTxrPbalZnEx=1713642307"
+        },
+        {
+            "id": 76,
+            "name": "National Geographic Channel",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-natgeo.jpg",
+            "type": "065",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/natgeo/__index.m3u8?mu3zAQc9HC3GbwJq=cdnqA93erIEcRKDRFRZ9Pw&3U1G7qaTxrPbalZnEx=1713642282"
+        },
+        {
+            "id": 77,
+            "name": "Nick Jr.",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-nickjr.jpg",
+            "type": "066",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/nickjr/__index.m3u8?mu3zAQc9HC3GbwJq=4w-5nvl2oZfwL7AVi-Uw0A&3U1G7qaTxrPbalZnEx=1713642259"
+        },
+        {
+            "id": 78,
+            "name": "Nickelodeon: Nick",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-nick.jpg",
+            "type": "067",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/nick/__index.m3u8?mu3zAQc9HC3GbwJq=HflRJmnKqsl6Kqd5WQh0FA&3U1G7qaTxrPbalZnEx=1713642148"
+        },
+        {
+            "id": 79,
+            "name": "Nosso Futebol",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-nossofutebol.jpg",
+            "type": "068",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/nossofutebol/__index.m3u8?mu3zAQc9HC3GbwJq=d0ujvcpzwYz-0W-z_mPtzA&3U1G7qaTxrPbalZnEx=1713642129"
+        },
+        {
+            "id": 80,
+            "name": "Off",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-off.jpg",
+            "type": "069",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/off/__index.m3u8?mu3zAQc9HC3GbwJq=dAO-t_2DO1ukDEm3n1V59g&3U1G7qaTxrPbalZnEx=1713642106"
+        },
+        {
+            "id": 81,
+            "name": "Paramount Channel",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-paramount.jpg",
+            "type": "070",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/paramount/__index.m3u8?mu3zAQc9HC3GbwJq=PWGXQBl344dY60Ic6p3NOg&3U1G7qaTxrPbalZnEx=1713642085"
+        },
+        {
+            "id": 82,
+            "name": "Premiere  Clubes",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-premiereclubes.jpg",
+            "type": "071",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/premiereclubes/__index.m3u8?mu3zAQc9HC3GbwJq=2VqrzCrGYp-TwQmKa7yCVQ&3U1G7qaTxrPbalZnEx=1713641502"
+        },
+        {
+            "id": 83,
+            "name": "Premiere 2",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere2.jpg",
+            "type": "072",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/premiere2/__index.m3u8?mu3zAQc9HC3GbwJq=21ua_sa-l3024agB1p22Gw&3U1G7qaTxrPbalZnEx=1713641520"
+        },
+        {
+            "id": 84,
+            "name": "Premiere 3",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere3.jpg",
+            "type": "073",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/premiere3/__index.m3u8?mu3zAQc9HC3GbwJq=v2jDa1S5GTTTeZ6yvVIVLQ&3U1G7qaTxrPbalZnEx=1713641540"
+        },
+        {
+            "id": 85,
+            "name": "Premiere 4",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere4.jpg",
+            "type": "074",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/premiere4/__index.m3u8?mu3zAQc9HC3GbwJq=KBREconkPuN_F51GbFQIZA&3U1G7qaTxrPbalZnEx=1713641561"
+        },
+        {
+            "id": 86,
+            "name": "Premiere 5",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere5.jpg",
+            "type": "075",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/premiere5/__index.m3u8?mu3zAQc9HC3GbwJq=m19y7YfWulLrL-uGlqgyUw&3U1G7qaTxrPbalZnEx=1713641587"
+        },
+        {
+            "id": 87,
+            "name": "Premiere 6",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere6.jpg",
+            "type": "076",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/premiere6/__index.m3u8?mu3zAQc9HC3GbwJq=FRuzgPGGNewazjx3lLjjbw&3U1G7qaTxrPbalZnEx=1713641609"
+        },
+        {
+            "id": 88,
+            "name": "Premiere 7",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-premiere7.jpg",
+            "type": "077",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/premiere7/__index.m3u8?mu3zAQc9HC3GbwJq=JHJ6PdAO0dTZjzPMXxeq3Q&3U1G7qaTxrPbalZnEx=1713641632"
+        },
+        {
+            "id": 89,
+            "name": "Prime Box Brazil",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-primeboxbrazil.jpg",
+            "type": "078",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/primeboxbrazil/__index.m3u8?mu3zAQc9HC3GbwJq=oKWpr7iAY0g9O6h8KAkdDg&3U1G7qaTxrPbalZnEx=1713641659"
+        },
+        {
+            "id": 90,
+            "name": "Record News",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-recordnews.jpg",
+            "type": "079",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/recordnews/__index.m3u8?mu3zAQc9HC3GbwJq=Xz-WenAHFvwx-yLwwz6t3Q&3U1G7qaTxrPbalZnEx=1713641682"
+        },
+        {
+            "id": 91,
+            "name": "Record TV",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-record.jpg",
+            "type": "080",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/record/__index.m3u8?mu3zAQc9HC3GbwJq=51ufl9pQaCE3cq5zdUIWCA&3U1G7qaTxrPbalZnEx=1713641048"
+        },
+        {
+            "id": 92,
+            "name": "Rede TV",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-redetv.jpg",
+            "type": "081",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/redetv/__index.m3u8?mu3zAQc9HC3GbwJq=mvQAIXAE2ZJ6iI6VhABztQ&3U1G7qaTxrPbalZnEx=1713641024"
+        },
+        {
+            "id": 93,
+            "name": "SBT",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-sbt.jpg",
+            "type": "082",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/sbt/__index.m3u8?mu3zAQc9HC3GbwJq=FPzpd7wb0un6UyRlOcm5PA&3U1G7qaTxrPbalZnEx=1713640964"
+        },
+        {
+            "id": 94,
+            "name": "Sony",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-sony.jpg",
+            "type": "083",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/sony/__index.m3u8?mu3zAQc9HC3GbwJq=ioY7e7Pvt4z3vJN3GOQsxA&3U1G7qaTxrPbalZnEx=1713640941"
+        },
+        {
+            "id": 95,
+            "name": "Sony Movies",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-sonymovies.jpg",
+            "type": "084",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/sonymovies/__index.m3u8?mu3zAQc9HC3GbwJq=1uRpEVWHFbP4puula7PfWA&3U1G7qaTxrPbalZnEx=1713640916"
+        },
+        {
+            "id": 96,
+            "name": "Space",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-space.jpg",
+            "type": "085",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/space/__index.m3u8?mu3zAQc9HC3GbwJq=nO6-IL0jh1NoN2d845gjOg&3U1G7qaTxrPbalZnEx=1713640895"
+        },
+        {
+            "id": 97,
+            "name": "SporTV",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv1.jpg",
+            "type": "086",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/sportv1/__index.m3u8?mu3zAQc9HC3GbwJq=ZBqUsu3AKIvhx0CjkbOS-g&3U1G7qaTxrPbalZnEx=1713640874"
+        },
+        {
+            "id": 98,
+            "name": "SporTV 2",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv2.jpg",
+            "type": "087",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/sportv2/__index.m3u8?mu3zAQc9HC3GbwJq=uCwsreMPwuHzJc5GkhqPlw&3U1G7qaTxrPbalZnEx=1713640840"
+        },
+        {
+            "id": 99,
+            "name": "SporTV 3",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-sportv3.jpg",
+            "type": "088",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/sportv3/__index.m3u8?mu3zAQc9HC3GbwJq=IYW2InTE0nRaJVmR6Us6dw&3U1G7qaTxrPbalZnEx=1713640811"
+        },
+        {
+            "id": 100,
+            "name": "Star Channel",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-starchannel.jpg",
+            "type": "089",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/starchannel/__index.m3u8?mu3zAQc9HC3GbwJq=7YYznUXTricEKeSgyGzEFA&3U1G7qaTxrPbalZnEx=1713640782"
+        },
+        {
+            "id": 101,
+            "name": "Studio Universal",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-studiouniversal.jpg",
+            "type": "090",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/studiouniversal/__index.m3u8?mu3zAQc9HC3GbwJq=bIifg2dej2PGIxU_g5KTIA&3U1G7qaTxrPbalZnEx=1713640758"
+        },
+        {
+            "id": 102,
+            "name": "Telecine Action",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-telecineaction.jpg",
+            "type": "091",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/telecineaction/__index.m3u8?mu3zAQc9HC3GbwJq=AVZqEMVPy5S5Id8OZmoROw&3U1G7qaTxrPbalZnEx=1713640736"
+        },
+        {
+            "id": 103,
+            "name": "Telecine Cult",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinecult.jpg",
+            "type": "092",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/telecinecult/__index.m3u8?mu3zAQc9HC3GbwJq=Dk55QpRm_c2VnbqOkFeXCw&3U1G7qaTxrPbalZnEx=1713640707"
+        },
+        {
+            "id": 104,
+            "name": "Telecine Fun",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinefun.jpg",
+            "type": "093",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/telecinefun/__index.m3u8?mu3zAQc9HC3GbwJq=OY1bi2g2DyCWJo4vsMiCjg&3U1G7qaTxrPbalZnEx=1713640688"
+        },
+        {
+            "id": 105,
+            "name": "Telecine Pipoca",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinepipoca.jpg",
+            "type": "094",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/telecinepipoca/__index.m3u8?mu3zAQc9HC3GbwJq=4ZvcDFwIeUuIL4f-kBAnVA&3U1G7qaTxrPbalZnEx=1713640664"
+        },
+        {
+            "id": 106,
+            "name": "Telecine Premium",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinepremium.jpg",
+            "type": "095",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/telecinepremium/__index.m3u8?mu3zAQc9HC3GbwJq=vbA7TDeI46C8llQZyWBs7w&3U1G7qaTxrPbalZnEx=1713640626"
+        },
+        {
+            "id": 107,
+            "name": "Telecine Touch",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-telecinetouch.jpg",
+            "type": "096",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/telecinetouch/__index.m3u8?mu3zAQc9HC3GbwJq=fGOqVES0HOZQs8aBR6AwMA&3U1G7qaTxrPbalZnEx=1713640601"
+        },
+        {
+            "id": 108,
+            "name": "TLC",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-tlc.jpg",
+            "type": "097",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/tlc/__index.m3u8?mu3zAQc9HC3GbwJq=2iVBLIzqxgkfcz1KbSIIEQ&3U1G7qaTxrPbalZnEx=1713640577"
+        },
+        {
+            "id": 109,
+            "name": "TNT",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-tnt.jpg",
+            "type": "098",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/tnt/__index.m3u8?mu3zAQc9HC3GbwJq=tyuab7f3ee0A85aTNgK0xA&3U1G7qaTxrPbalZnEx=1713640550"
+        },
+        {
+            "id": 110,
+            "name": "TNT Novelas",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-tntnovelas.jpg",
+            "type": "099",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/tntnovelas/__index.m3u8?mu3zAQc9HC3GbwJq=LXlT_jXHYYO8fkQ-yIVJ1Q&3U1G7qaTxrPbalZnEx=1713640513"
+        },
+        {
+            "id": 111,
+            "name": "TNT Series",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-tntseries.jpg",
+            "type": "100",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/tntseries/__index.m3u8?mu3zAQc9HC3GbwJq=2VpbUIwwKbbE9VJD7TAP_A&3U1G7qaTxrPbalZnEx=1713640455"
+        },
+        {
+            "id": 112,
+            "name": "Travel Box Brazil",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-travelboxbrazil.jpg",
+            "type": "101",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/travelboxbrazil/__index.m3u8?mu3zAQc9HC3GbwJq=ePGzs3Ehvi9gD7z2W1wL0w&3U1G7qaTxrPbalZnEx=1713640433"
+        },
+        {
+            "id": 113,
+            "name": "UFC Fight Pass",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-ufcfightpass.jpg",
+            "type": "102",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/ufcfightpass/__index.m3u8?mu3zAQc9HC3GbwJq=YlyBYhDlw-Cf6oHhj5wy6g&3U1G7qaTxrPbalZnEx=1713640407"
+        },
+        {
+            "id": 114,
+            "name": "Universal TV",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-universal.jpg",
+            "type": "103",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/universal/__index.m3u8?mu3zAQc9HC3GbwJq=FdVy7Hl9R8jBUu8JJXXdlA&3U1G7qaTxrPbalZnEx=1713640377"
+        },
+        {
+            "id": 115,
+            "name": "USA",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-usa.jpg",
+            "type": "104",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/usa/__index.m3u8?mu3zAQc9HC3GbwJq=YKLkQlydY7OfYd2HU6lhvA&3U1G7qaTxrPbalZnEx=1713640332"
+        },
+        {
+            "id": 116,
+            "name": "Viva",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-viva.jpg",
+            "type": "105",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/viva/__index.m3u8?mu3zAQc9HC3GbwJq=1cEqpxjjvGX7q50gn47mzw&3U1G7qaTxrPbalZnEx=1713640299"
+        },
+        {
+            "id": 117,
+            "name": "Warner TV",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-warner.jpg",
+            "type": "106",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/warner/__index.m3u8?mu3zAQc9HC3GbwJq=Ka2cQtFL-0LHSeNzg0Ie_Q&3U1G7qaTxrPbalZnEx=1713640279"
+        },
+        {
+            "id": 118,
+            "name": "Woohoo",
+            "logo": "https://xn--90afacv0clj6ac0dxa.xn--p1ai/assets/imgs-videos/Canais/thumb-woohoo.jpg",
+            "type": "107",
+            "m3u8": "https://xn--4yyxpd9bwkc3pt40i0thra3jpmwjmpn6s6d12sl2vq7yjb88e3jg-eb5brl.bnih8hbhyn2hif0bqm8xlnwa886tsrwbpwrvg7oalg4weca5dfunkfb51z7u2lj.foo/a2/docs/woohoo/__index.m3u8?mu3zAQc9HC3GbwJq=LxTesgMiCwJRBWVD3YxnZw&3U1G7qaTxrPbalZnEx=1713640255"
+        }
+    ]
+}
